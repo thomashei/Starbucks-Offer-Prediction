@@ -17,8 +17,8 @@ The findings and insights derived from this project can be applied by businesses
 ## Repository Structure
 
 - `data/`: This directory contains the raw and preprocessed datasets used in the project.
-- `notebooks/`: Jupyter notebooks that walk through the data preprocessing, modeling, and analysis steps.
-- `models/`: Saved model file for future use or deployment.
+- `notebook/`: Jupyter notebooks that walk through the data preprocessing, modeling, and analysis steps.
+- `model/`: Saved model file for future use or deployment.
 - `README.md`: This file, providing an overview and instructions for the project.
 
 ## Dependencies
