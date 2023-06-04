@@ -40,5 +40,8 @@ This project was completed as part of the Udacity Data Scientist Nanodegree Prog
 
 ## Contact
 
-For any questions or inquiries, please contact Thomas Ying(mailto:thomashei0828@gmail.com).
+For any questions or inquiries, please contact [Thomas Ying](mailto:thomashei0828@gmail.com).
 
+## Blog Post
+
+For detailed information about the project and its findings, please refer to the accompanying [essay]([https://your-blog-post-link.com](https://medium.com/@thomashei0828/predicting-customer-responses-with-machine-learning-starbucks-offers-as-showcase-fe9016fa19d3)).
