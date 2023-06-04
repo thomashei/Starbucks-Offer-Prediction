@@ -44,4 +44,4 @@ For any questions or inquiries, please contact [Thomas Ying](mailto:thomashei082
 
 ## Blog Post
 
-For detailed information about the project and its findings, please refer to the accompanying [essay]([https://medium.com/@thomashei0828/predicting-customer-responses-with-machine-learning-starbucks-offers-as-showcase-fe9016fa19d3])
+For detailed information about the project and its findings, please refer to the accompanying [essay](https://medium.com/@thomashei0828/predicting-customer-responses-with-machine-learning-starbucks-offers-as-showcase-fe9016fa19d3)
